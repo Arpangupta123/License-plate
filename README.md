@@ -1,5 +1,5 @@
 # License-plate
 
-Clone the repository
-Download the sample video and copy it in the rood directory
-Run the file in the command prompt
+1. Clone the repository
+2. Download the sample video and copy it in the rood directory
+3. Run the file in the command prompt
