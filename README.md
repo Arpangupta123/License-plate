@@ -1,4 +1,4 @@
-# License-plate
+# License-plate-Detection
 
 1. Clone the repository
 2. Download the sample video and copy it in the rood directory
